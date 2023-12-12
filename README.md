@@ -14,6 +14,6 @@ Conducting Research on Machine Learning [thegomeslab](https://github.com/thegome
 2. **Spotify Study Timer**
    - Description: A program that syncs the user's Spotify listening with a timer
    - Status: In development
-   - Repository: [potify Study Timer](https://github.com/wndrsn1/Sync-Spotify-to-Timer)
+   - Repository: [Spotify Study Timer](https://github.com/wndrsn1/Sync-Spotify-to-Timer)
 
 
