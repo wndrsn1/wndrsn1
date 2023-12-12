@@ -9,11 +9,11 @@ Conducting Research on Machine Learning [thegomeslab](https://github.com/thegome
 1. **Satellite Data Colocation Analysis**
    - Description: A program to analyze .hdf and .h5 files from NASAs MODIS and ICESAT2 satellites.
    - Status: In progress
-   - Repository: [Link to Project 1]()
+   - Repository: [Satellite Data Colocation Analysis](https://github.com/wndrsn1/MODIS-ICESAT2-Satellite-Data)
 
 2. **Spotify Study Timer**
    - Description: A program that syncs the user's Spotify listening with a timer
    - Status: In development
-   - Repository: [Link to Project 2](https://github.com/wndrsn1/Sync-Spotify-to-Timer)
+   - Repository: [potify Study Timer](https://github.com/wndrsn1/Sync-Spotify-to-Timer)
 
 
