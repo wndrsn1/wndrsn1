@@ -1,4 +1,4 @@
-Will Anderson
+**Will Anderson**
 
 Pursuing Chemical Engineering at the University of Iowa
 
