@@ -1,5 +1,8 @@
 **Will Anderson**
 
+
+![](https://github.com/wndrsn1/wndrsn1/blob/main/Scroll%20Title.gif_)
+
 Pursuing Chemical Engineering at the University of Iowa
 
 Conducting Research on Machine Learning [thegomeslab](https://github.com/thegomeslab)
