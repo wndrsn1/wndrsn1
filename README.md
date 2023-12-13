@@ -1,7 +1,7 @@
 **Will Anderson**
 
 
-![](https://github.com/wndrsn1/wndrsn1/blob/main/Scroll%20Title.gif = 20x20)
+![](https://github.com/wndrsn1/wndrsn1/blob/main/Scroll%20Title.gif)
 
 Pursuing Chemical Engineering at the University of Iowa
 
