@@ -7,7 +7,7 @@ Conducting Research on Machine Learning [thegomeslab](https://github.com/thegome
 ## Current Projects
 
 1. **Satellite Data Colocation Analysis**
-   - Description: A program to analyze .hdf and .h5 files from NASAs MODIS and ICESAT2 satellites.
+   - Description: A program to analyze .hdf and .h5 files from NASA MODIS and ICESAT2 satellites.
    - Status: In progress
    - Repository: [Satellite Data Colocation Analysis](https://github.com/wndrsn1/MODIS-ICESAT2-Satellite-Data)
 
