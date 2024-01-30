@@ -24,4 +24,4 @@ Conducting Research on atmsospheric science and LiDAR with the McGill Group
 ## Current Projects
 
 1. **Denoising ATL04 Satellite Data With DDPM**
-- Description: a 
+- Description: a repository of pre-processing tools that creates initial training data for a Denoising Diffusion Probabilistic Models and then utilizes the model to denoise ATL04 lidar imagery. It is designed with adaptability in mind so that it can be repurposed for other missions.
