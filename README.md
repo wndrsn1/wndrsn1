@@ -18,11 +18,11 @@ Conducting Research on atmsospheric science and LiDAR with the McGill Group
    - Repository: [Spotify Study Timer]([https://github.com/wndrsn1/Sync-Spotify-to-Timer])
 
 3. **Create Spotify Playlists**
-   - Description: A program that creates playlists based on the user inputted genre selection as well as the user's liked songs and listening history. 
+   - Description: A program that creates playlists based on the user inputted genre selection as well as the user's liked songs and listening history. It searches spotify for playlists containing the user's liked songs and creates a playlist based on the songs that appear most often. 
    - Repository: [Create Spotify Playlists](https://github.com/wndrsn1/Create-Spotify-Playlists)
 
 ## Current Projects
 
 1. **Denoising ATL04 Satellite Data With DDPM**
-   - Description: a repository of pre-processing tools that creates initial training data for a Denoising Diffusion Probabilistic Models and then utilizes the model to denoise ATL04 lidar imagery. It is designed with adaptability in mind so that it can be repurposed for other missions.
+   - Description: a repository of pre-processing tools that creates initial training data for a machine learning model and then utilizes the model to denoise ATL04 lidar imagery. It is designed with adaptability in mind so that it can be repurposed for other missions.
    - Repository: [Denoising ATL04 Satellite Data With DDPM](https://github.com/wndrsn1/Denoising-ATL04-Satellite-Data-With-DDPM)
