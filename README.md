@@ -12,7 +12,7 @@ Conducting Research on Machine Learning with atmsospheric science and LiDAR data
 
 2. **Spotify Study Timer**
    - Description: A program to create a virtual timer that will sync wuth the user's Spotify listening. At the end of the timer, it will pause the user's music, which minimizes disruption to those around them that might be caused by a phone or physical alarm.
-   - Repository: [Spotify Study Timer]([https://github.com/wndrsn1/Sync-Spotify-to-Timer])
+   - Repository: [Spotify Study Timer](https://github.com/wndrsn1/Sync-Spotify-to-Timer)
 
 3. **Create Spotify Playlists**
    - Description: A program that creates playlists based on the user inputted genre selection as well as the user's liked songs and listening history. It searches spotify for playlists containing the user's liked songs and creates a playlist based on the songs that appear most often. 
