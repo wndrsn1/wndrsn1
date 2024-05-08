@@ -11,7 +11,7 @@ Conducting Research on Machine Learning with atmsospheric science and LiDAR data
    - Repository: [Satellite Data Collocation Analysis](https://github.com/wndrsn1/MODIS-ICESAT2-Satellite-Data)
 
 2. **Spotify Study Timer**
-   - Description: A program to create a virtual timer that will sync wuth the user's Spotify listening. At the end of the timer, it will pause the user's music, which minimizes disruption to those around them that might be caused by a phone or physical alarm.
+   - Description: A program to create a virtual timer that will sync with the user's Spotify listening. At the end of the timer, it will pause the user's music, which minimizes disruption to those around them that might be caused by a phone or physical alarm.
    - Repository: [Spotify Study Timer](https://github.com/wndrsn1/Sync-Spotify-to-Timer)
 
 3. **Create Spotify Playlists**
