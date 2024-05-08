@@ -22,4 +22,4 @@ Conducting Research on Machine Learning with atmsospheric science and LiDAR data
 
 1. **Denoising ATL04 Satellite Data With CNN**
    - Description: a repository of pre-processing tools that creates initial training data for a machine learning model and then utilizes the model to denoise ICESAT-2 LiDAR imagery. It is designed with adaptability in mind so that it can be repurposed for other missions.
-   - Repository: [Denoising ATL04 Satellite Data With CNN](https://github.com/wndrsn1/Denoising-ATL04-Satellite-Data-With-DDPM)
+   - Repository: [Denoising ICESAT-2 Satellite Data With CNN](https://github.com/wndrsn1/Denoising-ATL04-Satellite-Data-With-DDPM)
