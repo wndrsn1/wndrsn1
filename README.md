@@ -2,7 +2,7 @@
 
 Pursuing Chemical Engineering at the University of Iowa
 
-Conducting Research on Machine Learning with atmsospheric science and LiDAR data at [Iowa Advanced Sensor Development Laboratory](https://github.com/mcgillgroup).
+Conducting Research on Machine Learning with atmsospheric science and LiDAR data at the [Iowa Advanced Sensor Development Laboratory](https://github.com/mcgillgroup).
 
 ## Previous Projects
 
